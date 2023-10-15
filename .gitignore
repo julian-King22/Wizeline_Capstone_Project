@@ -1,0 +1,8 @@
+__pycache__
+tempData
+terraform/.terraform
+terraform/.*
+credentials.json
+terraform/terraform.*
+__pycache__
+dags/__pycache__
